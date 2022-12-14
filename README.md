@@ -1,3 +1,3 @@
 # tim-berners-lee
-
-version mobile ok 
+***Exercice Perfect Pixel***
+Responsive mobile et desktop.
