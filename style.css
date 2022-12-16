@@ -7,7 +7,7 @@
 body {
     display: flex;
     flex-direction: column;
-    font-family: "roboto", sans-serif;
+    font-family: Georgia, serif;
 }
 
  /* header */
@@ -16,12 +16,11 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:black;
+    background-color: #071C2E;
     padding: 15px 10px;
     position: fixed;
     width: 100%;
     margin-bottom: 50px;
-    font-family: "roboto", sans-serif;
 }
   
 .header ul {
@@ -122,6 +121,7 @@ section {
 
 h1 {
     font-weight: bold;
+    
 }
 
 h3 {
@@ -137,7 +137,7 @@ h3 {
 .btn {
     border: 1px solid gray;
     border-radius: 10px;
-    color: rgb(18, 53, 250);
+    color: #12439C;
     padding: 12px 16px;
     font-size: 16px;
     cursor: pointer;
@@ -174,6 +174,7 @@ a:hover {
     border: 1px solid gray;
     padding: 14px;
     margin: 20px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 figure {
@@ -196,6 +197,7 @@ aside ul li{
     border-radius: 10px;
     padding: 12px 16px;
     font-size: 16px;
+    font-weight: bold;
     cursor: pointer;
     background-color: white;
     align-items: center;
@@ -206,7 +208,6 @@ aside ul li{
   
 article {
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     padding: 10px 20px;
     margin: 7px 0;
@@ -227,10 +228,10 @@ article {
 
 
 @media (min-width: 1024px) {
-  
+
     .contenu {
         border: 1px solid gray;
-        width: 70%;
+        width: 55%;
         padding: 0;
         margin-top: 85px;
         margin-left: 20px;
