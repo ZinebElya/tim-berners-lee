@@ -1,4 +1,4 @@
-# tim-berners-lee  
+# Tim Berners-Lee  
 https://zinebelya.github.io/tim-berners-lee/  
 
 **Becode's web development training // Dec2022** 
